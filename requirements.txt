@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+streamlit
+torch
+torchvision
+transformers
+
+# Note: If using GPU with CUDA
+torch==<version>+cu118
+torchvision==<version>+cu118
+
+python_version >= "3.8"
