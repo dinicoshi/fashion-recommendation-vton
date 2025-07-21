@@ -52,7 +52,7 @@ The project implements various ML/DL models to recommend clothes based on images
 
 # UI Demo and Saved Models
 
-The demo implementation/working of the project UI, as well as the saved models can be accessed using this link: https://drive.google.com/drive/folders/1mYER6ES-cVXdNTvlpnA79MhQ6Nt2XfUK?usp=drive_link
+The demo implementation/working of the project UI, as well as the saved models can be accessed using this link: https://drive.google.com/drive/folders/1mYER6ES-cVXdNTvlpnA79MhQ6Nt2XfUK?usp=drive_link  
 Models: 
 - cloth_recommender_resnet.pth
 - model.safetensors
